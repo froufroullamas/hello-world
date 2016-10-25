@@ -1,2 +1,2 @@
 # hello-world
-learning about opensourcing
+learning to opensource
